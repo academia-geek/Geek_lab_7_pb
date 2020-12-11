@@ -5,6 +5,7 @@ Realizar funciones básicas con array y objetos, tales como: crear, recuperar, a
 1. Crear un formulario con los siguientes datos:
 - Nombres:
 - Apellidos:
+- Edad:
 - Fecha de nacimiento:
 - Dirección:
 - Ciudad:
